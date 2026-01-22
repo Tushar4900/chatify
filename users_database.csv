@@ -1,0 +1,3 @@
+id,username,email,password,profilePic,status,lastSeen,friends,friendRequests,bio,location
+user-1769092078233,tushar,tusharhanwate492000@gmail.com,$2a$10$KRHzkameJPi5GydoFL8EQOBkoVewgQpfdH2KXnhkXeTGC/r2DzLXy,https://ui-avatars.com/api/?name=tushar&background=random&color=fff,online,2026-01-22T14:53:39.384Z,["user-1769092147181"],[{"from":"user-1769092147181","status":"accepted","sentAt":"2026-01-22T14:52:19.895Z"}],status":"accepted,"sentAt":"2026-01-22T14:29:38.976Z"}],,
+user-1769092147181,roy,roy@gmail.com,$2a$10$.rF7v5ILfSZDhNAOgTtwU.42rnloM.LZ/.lMfTV3rBxtIdPdAvVmK,https://ui-avatars.com/api/?name=roy&background=random&color=fff,offline,2026-01-22T14:52:40.368Z,["user-1769092078233"],[],,
